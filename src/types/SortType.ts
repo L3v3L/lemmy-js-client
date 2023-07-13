@@ -18,4 +18,14 @@ export type SortType =
   | "TopThreeMonths"
   | "TopSixMonths"
   | "TopNineMonths"
-  | "BestAll";
+  | "BestAll"
+  | "BestYear"
+  | "BestNineMonths"
+  | "BestSixMonths"
+  | "BestThreeMonths"
+  | "BestMonth"
+  | "BestWeek"
+  | "BestDay"
+  | "BestTwelveHour"
+  | "BestSixHour"
+  | "BestHour";
